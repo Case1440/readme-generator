@@ -2,8 +2,6 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/readme-generator/
-
 Public Github Repo: https://github.com/Case1440/readme-generator
 
 ## User Story
