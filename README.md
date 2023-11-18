@@ -42,7 +42,7 @@ The Project was created with:
 
 ## Walkthrough
 
-
+https://github.com/Case1440/readme-generator/blob/main/Untitled_%20Nov%2018%2C%202023%2012_03%20AM.webm
 
 ## Summary
 
